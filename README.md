@@ -3,6 +3,8 @@
 A simple beginner-friendly **React.js To-Do List App** built using Vite.  
 You can add tasks, mark them as complete, and delete them.  
 
+🔗 **Live Demo:** [View Here](https://yatinannam.github.io/todo-react/)
+
 ---
 
 ## 🚀 Features
@@ -26,8 +28,8 @@ Clone the repo and install dependencies:
 ```bash
 git clone https://github.com/yatinannam/todo-react.git
 cd todo-react
-npm install
-npm run dev
 ```
 
 ---
+npm install
+npm run dev
