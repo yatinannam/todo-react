@@ -24,7 +24,20 @@ You can add tasks, mark them as complete, and delete them.
 Clone the repo and install dependencies:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/todo-react.git
+git clone https://github.com/yatinannam/todo-react.git
 cd todo-react
 npm install
 npm run dev
+```
+
+---
+
+## Step 2 — Push README to GitHub  
+In terminal:  
+```bash
+git add README.md
+git commit -m "added README"
+git push
+```
+
+---
