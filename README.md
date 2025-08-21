@@ -31,13 +31,3 @@ npm run dev
 ```
 
 ---
-
-## Step 2 — Push README to GitHub  
-In terminal:  
-```bash
-git add README.md
-git commit -m "added README"
-git push
-```
-
----
