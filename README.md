@@ -30,6 +30,9 @@ git clone https://github.com/yatinannam/todo-react.git
 cd todo-react
 ```
 
----
+Run:
+```bash
 npm install
 npm run dev
+```
+---
