@@ -1,27 +1,29 @@
-# 📝 My To-Do List App
+# My To-Do List App
 
 A simple beginner-friendly **React.js To-Do List App** built using Vite.  
 You can add tasks, mark them as complete, and delete them.  
 
-🔗 **Live Demo:** [View Here](https://yatinannam.github.io/todo-react/)
+**Live Demo:** [View Here](https://yatinannam.github.io/todo-react/)
 
 ---
 
-## 🚀 Features
-- ➕ Add new tasks  
-- ✔ Mark tasks as complete (with strike-through)  
-- ❌ Delete tasks  
-- 🎨 Clean modern UI with gradient background  
+## Features
+
+- Add new tasks  
+- Mark tasks as complete (with strike-through)  
+- Delete tasks  
+- Clean modern UI with gradient background  
 
 ---
 
-## 🛠️ Built With
+## Built With
+
 - [React.js](https://react.dev/) (with Vite)  
 - CSS  
 
 ---
 
-## 📂 Project Setup
+## Project Setup
 
 Clone the repo and install dependencies:
 
